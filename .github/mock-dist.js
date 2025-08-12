@@ -1,4 +1,4 @@
-/ secrets-example.js
+/ secrets-example.js MAIN
 
 // 1. Token de GitHub (ficticio)
 const GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyz";
